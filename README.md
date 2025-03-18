@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UltimateNinja7701
+- 👋 Hi, I’m Sparsh Sharma
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning B.Tech in CSE from Amity University, Noida
 - 💞️ I’m looking to collaborate on ...
